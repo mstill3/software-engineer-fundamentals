@@ -1,6 +1,6 @@
 # Software Engineer Fundamentals
 
-1. Git
+1. [Git](./git.md)
 2. Linux commands
 3. Docker
 4. Postgres SQL DB
